@@ -5,6 +5,7 @@
 	"type": "module",
 	"author": "Fedya Petrakov",
 	"scripts": {
+		"test": "vitest",
 		"dev": "vite",
 		"build": "tsc && vite build",
 		"preview": "vite preview"
